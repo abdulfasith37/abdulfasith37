@@ -129,12 +129,4 @@ fun_fact: "Exploring how AI + Cybersecurity converge into smarter, safer systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
-</div>    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,30:00ffcc,70:0055ff,100:090d16&height=90&section=footer" width="100%" alt="Footer" />
 </div>
