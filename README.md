@@ -75,15 +75,15 @@
       </a>
       <p><b>Web Frameworks & Markup</b></p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=dark" alt="Web" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,&theme=dark" alt="Web" />
       </a>
       <p><b>Tools & Platforms</b></p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,postman&theme=dark" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=github,linux,vscode,mysql,xamp&theme=dark" alt="Tools" />
       </a>
       <p><b>Cybersecurity & Systems</b></p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kali,wireshark,bash,ai&theme=dark" alt="Security" />
+        <img src="https://skillicons.dev/icons?i=kali,wireshark,bash&theme=dark" alt="Security" />
       </a>
     </td>
     <td width="45%" valign="top" align="center">
