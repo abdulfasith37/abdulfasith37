@@ -85,15 +85,12 @@ fun_fact: "Exploring how AI + Cybersecurity converge into smarter, safer systems
 
 <div align="center">
 
-[![Urban Innovate](https://github-readme-stats.vercel.app/api/pin/?username=abdulfasith37&repo=Urban-Innovate&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)](https://github.com/abdulfasith37)
 [![PROVENOM](https://github-readme-stats.vercel.app/api/pin/?username=Prohackers535&repo=PROVENOM&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)](https://github.com/Prohackers535/PROVENOM)
 
 [![Student Grade System](https://github-readme-stats.vercel.app/api/pin/?username=abdulfasith37&repo=IT1214-Student-Grade-System&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)](https://github.com/abdulfasith37/IT1214-Student-Grade-System)
 [![Warehouse Inventory](https://github-readme-stats.vercel.app/api/pin/?username=abdulfasith37&repo=IT1214-Warehouse-Inventory-System&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9)](https://github.com/abdulfasith37/IT1214-Warehouse-Inventory-System)
 
 </div>
-
-> **Tip:** these cards only render once the repos above exist under your GitHub account and are **public** â€” rename `repo=` to match your exact repository names.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
