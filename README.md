@@ -34,7 +34,7 @@ fun_fact: "Exploring how AI + Cybersecurity converge into smarter, safer systems
 - Hands-on with **web development, ethical hacking concepts & automation**
 - Also active in **digital marketing & AI-assisted productivity**
 - Currently leveling up in advanced cybersecurity & applied AI
-- Ask me about: `Software` â€¢ `Cybersecurity` â€¢ `AI`
+- Ask me about: `Software` `Cybersecurity` `AI`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
