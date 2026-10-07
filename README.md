@@ -18,27 +18,27 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸ§  About Me
+## About Me
 
 ```yaml
 name: "N. Abdul Fasith"
-role: "Founder & CEO @ GCSST | IT Undergraduate"
+role: "Founder & CEO @ GCSST | IT Undergraduate | Cybersecurity Enthusiast"
 focus: ["Software Development", "Cybersecurity", "Digital Marketing", "AI Tools"]
 based_in: "Trincomalee, Sri Lanka"
 currently_building: "Practical, secure, AI-assisted software solutions"
 fun_fact: "Exploring how AI + Cybersecurity converge into smarter, safer systems"
 ```
 
-- ðŸŽ“ IT Undergraduate, passionate about **software, security & emerging tech**
-- ðŸ›¡ï¸ Founder & CEO of **Global Cybersecurity and Software Technologies (Pvt) Ltd (GCSST)**
-- âš™ï¸ Hands-on with **web development, ethical hacking concepts & automation**
-- ðŸ“ˆ Also active in **digital marketing & AI-assisted productivity**
-- ðŸŒ± Currently leveling up in advanced cybersecurity & applied AI
-- ðŸ’¬ Ask me about: `Software` â€¢ `Cybersecurity` â€¢ `AI`
+- IT Undergraduate, passionate about **software, security & emerging tech**
+- Founder & CEO of **Global Cybersecurity and Software Technologies (Pvt) Ltd (GCSST)**
+- Hands-on with **web development, ethical hacking concepts & automation**
+- Also active in **digital marketing & AI-assisted productivity**
+- Currently leveling up in advanced cybersecurity & applied AI
+- Ask me about: `Software` â€¢ `Cybersecurity` â€¢ `AI`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸ› ï¸ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -66,7 +66,7 @@ fun_fact: "Exploring how AI + Cybersecurity converge into smarter, safer systems
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -81,7 +81,7 @@ fun_fact: "Exploring how AI + Cybersecurity converge into smarter, safer systems
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -93,11 +93,11 @@ fun_fact: "Exploring how AI + Cybersecurity converge into smarter, safer systems
 
 </div>
 
-> ðŸ’¡ **Tip:** these cards only render once the repos above exist under your GitHub account and are **public** â€” rename `repo=` to match your exact repository names.
+> **Tip:** these cards only render once the repos above exist under your GitHub account and are **public** â€” rename `repo=` to match your exact repository names.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ðŸŒ Connect With Me
+## Connect With Me
 
 <div align="center">
 
